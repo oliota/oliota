@@ -4,6 +4,8 @@
   Hi, I'm Eliane Oliota, currently studying programming.
 </p>
 
+---
+
 <p align="left">
   🦄 knowledge:
   
@@ -26,7 +28,7 @@
 ![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
 </p>
 
- 
+---
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="/img/eliane_git.gif?raw=true"> 
 
