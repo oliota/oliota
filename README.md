@@ -80,23 +80,9 @@
 
 </tr>
 
-</tbody>
-</table>
-
-
-
-
-
-
-<table>
-<thead>
-<th>Database</th>
-<th>IDE</th>
-<th>Dersion</th>
-<th>Deploy</th>
-</thead>
-<tbody>
 <tr>
+
+<td>Database</td>
 <td>
 
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
@@ -107,8 +93,11 @@
 ![Postgres](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql)&nbsp;
 
 </td>
+</tr>
 
+<tr>
 
+<td>IDE</td>
 <td>
 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
@@ -122,7 +111,11 @@
 ![Repl.it](https://img.shields.io/badge/-Repl.it-black?style=flat&logo=replit)&nbsp;
 
 </td>
+</tr>
 
+<tr>
+
+<td>Version</td>
 <td>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
@@ -132,8 +125,13 @@
 ![SourceTree](https://img.shields.io/badge/-SourceTree-black?style=flat&logo=sourcetree&logoColor=blue)&nbsp;
 
 </td>
+</tr>
 
-<td>
+<tr>
+
+<td>Deploy</td>
+
+ <td>
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)&nbsp;
@@ -147,6 +145,10 @@
 
 </tbody>
 </table>
+
+
+
+
 
 
 
