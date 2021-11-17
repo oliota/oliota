@@ -2,32 +2,26 @@
 # ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 
-
-
-
-## Contatos
-
-
-
 <h2> Hi, I'm Rubem Oliota! </h2>
 <img align='right' src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="230">
 <p><em>Senior Systems Analyst currently at <a href="https://www.capgemini.com/">Capgemini</a>
+<p><em>Multistack instructor on <a href="https://www.proway.com.br/">Proway</a>
+
+
 
 [![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
 [![Cursos ministrados](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rubemoliota@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Rubem%20Tudo%20bem?/)&nbsp;
-
-
 ---
-[![Carreira](https://img.shields.io/badge/Carreira-12%20anos-blue)](https://oliota.com/cv)&nbsp;
-[![Cursos ministrados](https://img.shields.io/badge/Cursos%20ministrados-20-blue)](https://oliota.com/cursos)&nbsp;
+[![Carreira](https://img.shields.io/badge/Career-12%20years-blue)](https://oliota.com/cv)&nbsp;
+[![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-20-blue)](https://oliota.com/cursos)&nbsp;
 ---
 
 <!-- <iframe src="https://oliota.github.io/examples/impossivel/index.html" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe> -->
 
   
  
-### 🎓 Conhecimentos
+### 🎓 knowledge
 
 <table>
 <thead>
@@ -86,9 +80,9 @@
 
 <table>
 <thead>
-<th>Banco de dados</th>
+<th>Database</th>
 <th>IDE</th>
-<th>Versionamento</th>
+<th>Dersion</th>
 <th>Deploy</th>
 </thead>
 <tbody>
