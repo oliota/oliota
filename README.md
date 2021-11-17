@@ -182,7 +182,7 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 ![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&langs_count=50)](https://github.com/oliota/github-readme-stats)
 
 
 

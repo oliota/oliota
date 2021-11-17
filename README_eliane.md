@@ -7,7 +7,7 @@
 ---
 
 <p align="left">
-  🦄 knowledge:
+  ✍🏾 knowledge:
   
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  💼 IDE: 
+  👩🏾‍💻 IDE: 
   
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green)&nbsp;
@@ -27,6 +27,19 @@
 ![PyCharm](https://img.shields.io/badge/-Pycharm-black?style=flat&logo=Pycharm&logoColor=blue)&nbsp;
 ![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
 </p>
+
+---
+
+
+
+![ElianeOliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianeoliota&show_icons=true&theme=vue)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elianeoliota&langs_count=50)](https://github.com/elianeoliota/github-readme-stats)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elianeoliota&repo=elianeoliota.github.io)](https://github.com/elianeoliota/oliota.github.io)
 
 ---
 
