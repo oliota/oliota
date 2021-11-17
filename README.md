@@ -3,7 +3,10 @@
 
 
 <h2> Hi, I'm Rubem Oliota! </h2>
-<img align='right' src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="230">
+<img align='center' src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="230">
+
+---
+
 <p><em>Senior Systems Analyst currently at <a href="https://www.capgemini.com/">Capgemini</a>
 <p><em>Multistack instructor on <a href="https://www.proway.com.br/">Proway</a>
 
