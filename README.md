@@ -2,16 +2,26 @@
 # ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 
-<h2> Hi, I'm Rubem Oliota! </h2>
+## Hi, I'm Rubem Oliota!
 
----
-
-<img align='right' src="/img/img1.gif" width="128px" >
-
----
-
+<table border='0'>
+<tr>
+<td>
 <p><em>Senior Systems Analyst currently at <a href="https://www.capgemini.com/">Capgemini</a>
 <p><em>Multistack instructor on <a href="https://www.proway.com.br/">Proway</a>
+</td>
+
+<td>
+
+<img align='right' src="/img/img1.gif"   >
+</td>
+</tr>
+
+</table>
+
+ 
+
+
 
 
 
