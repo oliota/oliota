@@ -3,7 +3,7 @@
 
 
 <h2> Hi, I'm Rubem Oliota! </h2>
-<img align='center' src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="230">
+<img align='center' src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"  >
 
 ---
 
@@ -26,14 +26,10 @@
  
 ### 🎓 knowledge
 
-<table>
-<thead>
-<th>Backend</th>
-<th>Frontend</th>
-<th>Mobile</th>
-</thead>
+<table > 
 <tbody>
 <tr>
+<td>Backend</td>
 <td>
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
@@ -43,6 +39,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
 ![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
 
+
+</tr>
+
+<tr>
+<td>Frontend</td>
 <td>
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
@@ -62,10 +63,16 @@
 
 
 </td>
+
+</tr>
+
+<tr>
+
+<td>Mobile</td>
 <td>
 
-![Android](https://img.shields.io/badge/-Android.java-black?style=flat&logo=Android&logoColor=green)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Android.kotlin-black?style=flat&logo=kotlin&logoColor=green)&nbsp;
+![Android](https://img.shields.io/badge/-Android%20java-black?style=flat&logo=Android&logoColor=green)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Android%20kotlin-black?style=flat&logo=kotlin&logoColor=green)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
 ![Swift](https://img.shields.io/badge/-IOS.Swift-black?style=flat&logo=Swift)&nbsp;
 
@@ -97,6 +104,8 @@
 ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
+![Postgres](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql)&nbsp;
+
 </td>
 
 
@@ -110,6 +119,7 @@
 ![Intelij](https://img.shields.io/badge/-Intelij-black?style=flat&logo=Jetbrains&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-Pycharm-black?style=flat&logo=Pycharm&logoColor=blue)&nbsp;
 ![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
+![Repl.it](https://img.shields.io/badge/-Repl.it-black?style=flat&logo=replit)&nbsp;
 
 </td>
 
