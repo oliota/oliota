@@ -5,14 +5,15 @@
 [![Carreira](https://img.shields.io/badge/Carreira-12%20anos-blue)](https://oliota.com/cv)&nbsp;
 [![Cursos ministrados](https://img.shields.io/badge/Cursos%20ministrados-20-blue)](https://oliota.com/cursos)&nbsp;
 
+---
 
 ## Contatos
 
 [![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
-[![Cursos ministrados](https://img.shields.io/badge/-Instagram-orange?style=flat&logo=instagram&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-g?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rubemoliota@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Rubem%20Tudo%20bem?/)&nbsp;
+[![Cursos ministrados](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rubemoliota@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Rubem%20Tudo%20bem?/)&nbsp;
  
-
+---
 
 ### 🎓 Conhecimentos
 
@@ -43,14 +44,28 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
 
-## Banco de dados
+---
+
+<table>
+<thead>
+<th>Banco de dados</th>
+<th>IDE</th>
+<th>Versionamento</th>
+<th>Deploy</th>
+</thead>
+<tbody>
+<tr>
+<td>
+
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat&logo=oracle&logoColor=red)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
- 
-## IDE
+</td>
+
+
+<td>
 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
 ![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-black?style=flat&logo=Spring&logoColor=green)&nbsp;
@@ -61,8 +76,9 @@
 ![PyCharm](https://img.shields.io/badge/-Pycharm-black?style=flat&logo=Pycharm&logoColor=blue)&nbsp;
 ![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
 
-## Versionamento
+</td>
 
+<td>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
@@ -70,9 +86,9 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat&logo=bitbucket)&nbsp;
 ![SourceTree](https://img.shields.io/badge/-SourceTree-black?style=flat&logo=sourcetree&logoColor=blue)&nbsp;
 
+</td>
 
-## Deploy
-
+<td>
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)&nbsp;
@@ -80,3 +96,13 @@
 ![Firebase](https://img.shields.io/badge/-Google%20domains-black?style=flat&logo=google-domains)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Google%20play-black?style=flat&logo=google-play)&nbsp;
 [![Google Play](https://img.shields.io/badge/-Google%20play-black?style=flat&logo=google-play)](https://play.google.com/store/apps/dev?id=4624325070796601602)&nbsp;
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
+
+
