@@ -2,14 +2,18 @@
 # ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 
-## Hi, I'm Rubem Oliota!
 
-<table border='0'>
-<tr>
+ 
 
-<td width="70%">
-<p><em>Senior Systems Analyst currently at <a href="https://www.capgemini.com/">Capgemini</a>
-<p><em>Multistack instructor on <a href="https://www.proway.com.br/">Proway</a>
+  <table border='0'>
+<tr> 
+
+<td width="70%">  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23000&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+systems+analyst+at+Capgemini;Multistack+instructor+on+Proway)](https://git.io/typing-svg)
+<!-- <p><em>Senior Systems Analyst currently at <a href="https://www.capgemini.com/">Capgemini</a>
+<p><em>Multistack instructor on <a href="https://www.proway.com.br/">Proway</a> 
+-->
 </td>
 
 <td>
@@ -18,7 +22,7 @@
 </td>
 </tr>
 
-</table>
+</table> 
 
  
 
@@ -162,14 +166,20 @@
 
 
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-</a>
+![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue)
 
 
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliota&theme=vue)](https://oliota.herokuapp.com/) -->
+
+
+
+<!-- [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8026932)](https://stackoverflow.com/users/6558042/omid-nikrah) -->
+
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+ 
 
 
