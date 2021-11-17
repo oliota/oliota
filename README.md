@@ -2,9 +2,10 @@
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Bem+vindo+ao+meu+perfil+,+você+é+o+visitante+nº:)
 
-![Cursos ministrados](https://img.shields.io/badge/Cursos%20ministrados-20-blue)&nbsp;
+[![Carreira](https://img.shields.io/badge/Carreira-12%20anos-blue)](https://oliota.com/cv)&nbsp;
+[![Cursos ministrados](https://img.shields.io/badge/Cursos%20ministrados-20-blue)](https://oliota.com/cursos)&nbsp;
 
-![Carreira](https://img.shields.io/badge/Carreira-12%20anos-blue)&nbsp; 
+ 
 
 
 ### 🎓 Conhecimentos
