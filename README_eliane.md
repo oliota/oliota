@@ -49,5 +49,8 @@
   [![Gmail](https://img.shields.io/badge/-Email-purple?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=elianeholiota@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Eliane%20Tudo%20bem?/)&nbsp;
 [![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliane-oliota-166799190/)&nbsp;
 
-  
+  <br>
+
  
+
+ [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
