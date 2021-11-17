@@ -1,9 +1,9 @@
-# Olá 👋
 
-![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Bem+vindo+ao+meu+perfil+,+você+é+o+visitante+nº:)
+# ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
-[![Carreira](https://img.shields.io/badge/Carreira-12%20anos-blue)](https://oliota.com/cv)&nbsp;
-[![Cursos ministrados](https://img.shields.io/badge/Cursos%20ministrados-20-blue)](https://oliota.com/cursos)&nbsp;
+
+
+
 
 ## Contatos
 
@@ -17,6 +17,10 @@
 [![Cursos ministrados](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rubemoliota@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Rubem%20Tudo%20bem?/)&nbsp;
 
+
+---
+[![Carreira](https://img.shields.io/badge/Carreira-12%20anos-blue)](https://oliota.com/cv)&nbsp;
+[![Cursos ministrados](https://img.shields.io/badge/Cursos%20ministrados-20-blue)](https://oliota.com/cursos)&nbsp;
 ---
 
 <!-- <iframe src="https://oliota.github.io/examples/impossivel/index.html" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe> -->
