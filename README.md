@@ -5,24 +5,32 @@
 [![Carreira](https://img.shields.io/badge/Carreira-12%20anos-blue)](https://oliota.com/cv)&nbsp;
 [![Cursos ministrados](https://img.shields.io/badge/Cursos%20ministrados-20-blue)](https://oliota.com/cursos)&nbsp;
 
----
-
 ## Contatos
 
 [![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
 [![Cursos ministrados](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rubemoliota@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Rubem%20Tudo%20bem?/)&nbsp;
+
+<h2> Hi, I'm Rubem Oliota! </h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Impossible to click button" src="https://oliota.github.io/examples/impossivel/" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+</iframe>
+
  
----
-
 ### 🎓 Conhecimentos
-
-
 
 <table>
 <thead>
 <th>Backend</th>
-<th>Fontend</th>
+<th>Frontend</th>
 <th>Mobile</th>
 </thead>
 <tbody>
@@ -52,13 +60,14 @@
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
+
 
 </td>
 <td>
 
 ![Android](https://img.shields.io/badge/-Android.java-black?style=flat&logo=Android&logoColor=green)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Android.kotlin-black?style=flat&logo=kotlin&logoColor=green)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
 ![Swift](https://img.shields.io/badge/-IOS.Swift-black?style=flat&logo=Swift)&nbsp;
 
 </td>
