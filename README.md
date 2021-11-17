@@ -3,7 +3,10 @@
 
 
 <h2> Hi, I'm Rubem Oliota! </h2>
-<img align='center' src="/img/img1.gif"  >
+
+---
+
+<img align='right' src="/img/img1.gif" width="128px" >
 
 ---
 
