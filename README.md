@@ -14,7 +14,7 @@
 
 <td>
 
-<img align='right' src="/img/img1.gif"   >
+<img align='right' src="/img/qrcode_oliota_com.png"   >
 </td>
 </tr>
 
@@ -26,9 +26,10 @@
 
 
 
-[![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
+
 [![Cursos ministrados](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rubemoliota@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Rubem%20Tudo%20bem?/)&nbsp;
+[![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rubemoliota@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Rubem%20Tudo%20bem?/)&nbsp;
+[![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
 ---
 [![Carreira](https://img.shields.io/badge/Career-12%20years-blue)](https://oliota.com/cv)&nbsp;
 [![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-20-blue)](https://oliota.com/cursos)&nbsp;
@@ -161,7 +162,13 @@
 
 
 
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
+</a>
 
 
 
