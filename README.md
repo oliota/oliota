@@ -3,7 +3,7 @@
 
 
 <h2> Hi, I'm Rubem Oliota! </h2>
-<img align='center' src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"  >
+<img align='center' src="/img/img1.gif"  >
 
 ---
 
@@ -137,7 +137,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Google%20domains-black?style=flat&logo=google-domains)&nbsp;
-![Firebase](https://img.shields.io/badge/-Google%20play-black?style=flat&logo=google-play)&nbsp;
 [![Google Play](https://img.shields.io/badge/-Google%20play-black?style=flat&logo=google-play)](https://play.google.com/store/apps/dev?id=4624325070796601602)&nbsp;
 
 </td>
