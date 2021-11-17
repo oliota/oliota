@@ -169,7 +169,14 @@
 
 ![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue)
 
+``` javascript
+//Fun fact: I once answered the world’s oldest question with a single line of JavaScript
+// Which came first: the chicken or the egg?
+console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
+//spoiler 🐔
+
+```
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliota&theme=vue)](https://oliota.herokuapp.com/) -->
 
