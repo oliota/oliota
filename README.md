@@ -4,17 +4,17 @@
 
 
  
-
+<!-- 
   <table border='0'>
 <tr> 
 
-<td width="70%">  
+<td width="70%">   -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23000&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+systems+analyst+at+Capgemini;Multistack+instructor+on+Proway)](https://git.io/typing-svg)
 <!-- <p><em>Senior Systems Analyst currently at <a href="https://www.capgemini.com/">Capgemini</a>
 <p><em>Multistack instructor on <a href="https://www.proway.com.br/">Proway</a> 
 -->
-</td>
+<!-- </td>
 
 <td>
 
@@ -22,7 +22,7 @@
 </td>
 </tr>
 
-</table> 
+</table>  -->
 
  
 
