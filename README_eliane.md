@@ -30,14 +30,9 @@
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="/img/eliane_git.gif?raw=true"> 
 
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+ 
+  [![Gmail](https://img.shields.io/badge/-Email-purple?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=elianeholiota@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Eliane%20Tudo%20bem?/)&nbsp;
+[![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliane-oliota-166799190/)&nbsp;
 
   
-
-</p>  
+ 
