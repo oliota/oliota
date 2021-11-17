@@ -6,7 +6,8 @@
 
 <table border='0'>
 <tr>
-<td>
+
+<td width="70%">
 <p><em>Senior Systems Analyst currently at <a href="https://www.capgemini.com/">Capgemini</a>
 <p><em>Multistack instructor on <a href="https://www.proway.com.br/">Proway</a>
 </td>
