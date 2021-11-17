@@ -56,7 +56,7 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 ```
   
  
-### 🎓 knowledge
+## 🎓 knowledge
 
 <table > 
 <tbody>
@@ -137,6 +137,7 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
+![XCode](https://img.shields.io/badge/-XCode-black?style=flat&logo=xcode)&nbsp;
 ![Intelij](https://img.shields.io/badge/-Intelij-black?style=flat&logo=Jetbrains&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-Pycharm-black?style=flat&logo=Pycharm&logoColor=blue)&nbsp;
 ![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
@@ -177,11 +178,18 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 </tbody>
 </table>
 
-
-
-
+ 
 ![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliota&repo=oliota.github.io)](https://github.com/oliota/oliota.github.io)
+
+<!-- 
+[![oliota's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oliota)](https://github.com/oliota/github-readme-stats) -->
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliota&theme=vue)](https://oliota.herokuapp.com/) -->
