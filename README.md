@@ -4,7 +4,7 @@
 
 ![Cursos ministrados](https://img.shields.io/badge/Cursos%20ministrados-20-blue)&nbsp;
 
-![Carreira](https://img.shields.io/badge/Anos%20de%20carreira-12-blue)&nbsp; 
+![Carreira](https://img.shields.io/badge/Carreira-12%20anos-blue)&nbsp; 
 
 
 ### 🎓 Conhecimentos
@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
 
 ![Android](https://img.shields.io/badge/-Android.java-black?style=flat&logo=Android&logoColor=green)&nbsp;
-![Android](https://img.shields.io/badge/-Android.kotlin-black?style=flat&logo=kotlin&logoColor=green)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Android.kotlin-black?style=flat&logo=kotlin&logoColor=green)&nbsp;
 ![Swift](https://img.shields.io/badge/-IOS.Swift-black?style=flat&logo=Swift)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
