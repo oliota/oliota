@@ -1,7 +1,10 @@
 
 # ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
+---
 
+[![Carreira](https://img.shields.io/badge/Career-12%20years-blue)](https://oliota.com/cv)&nbsp;
+[![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-20-blue)](https://oliota.com/cursos)&nbsp;
 
  
 <!-- 
@@ -28,19 +31,30 @@
 
 
 
+<!-- 
+<img align='right' src="/img/qrcode_oliota_com.png" width="200px"  > -->
 
-<img align='right' src="/img/qrcode_oliota_com.png" width="200px"  >
+<center>
 
 [![Cursos ministrados](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rubemoliota@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Rubem%20Tudo%20bem?/)&nbsp;
 [![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
+
+</center>
+
 ---
-[![Carreira](https://img.shields.io/badge/Career-12%20years-blue)](https://oliota.com/cv)&nbsp;
-[![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-20-blue)](https://oliota.com/cursos)&nbsp;
----
+
 
 <!-- <iframe src="https://oliota.github.io/examples/impossivel/index.html" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe> -->
 
+``` javascript
+//Fun fact: I once answered the world’s oldest question with a single line of JavaScript
+// Which came first: the chicken or the egg?
+console.log([ "🐣","🥚", "🐔", "🐥"].sort());
+
+//spoiler 🐔
+
+```
   
  
 ### 🎓 knowledge
@@ -169,14 +183,7 @@
 
 ![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue)
 
-``` javascript
-//Fun fact: I once answered the world’s oldest question with a single line of JavaScript
-// Which came first: the chicken or the egg?
-console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
-//spoiler 🐔
-
-```
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliota&theme=vue)](https://oliota.herokuapp.com/) -->
 
