@@ -1,6 +1,6 @@
 # Olá 👋
 
-![counter](https://[https://github.com/oliota].m.pipedream.net)
+![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&label=Bem+vindo+ao+meu+perfil+,+você+é+o+visitante+nº:)
 
 ### 🎓 Conhecimentos
 
