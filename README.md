@@ -6,32 +6,8 @@
 [![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-20-blue)](https://oliota.com/cursos)&nbsp;
 
  
-<!-- 
-  <table border='0'>
-<tr> 
-
-<td width="70%">   -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+systems+analyst+at+Capgemini;Multistack+instructor+on+Proway)](https://git.io/typing-svg)
-<!-- <p><em>Senior Systems Analyst currently at <a href="https://www.capgemini.com/">Capgemini</a>
-<p><em>Multistack instructor on <a href="https://www.proway.com.br/">Proway</a> 
--->
-<!-- </td>
 
-<td>
-
-<img align='right' src="/img/qrcode_oliota_com.png"   >
-</td>
-</tr>
-
-</table>  -->
-
- 
-
-
-
-<!-- 
-<img align='right' src="/img/qrcode_oliota_com.png" width="200px"  > -->
 
 <center>
 
@@ -43,8 +19,6 @@
 
 ---
 
-
-<!-- <iframe src="https://oliota.github.io/examples/impossivel/index.html" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay" data-external="1"></iframe> -->
 
 ``` javascript
 //Fun fact: I once answered the world’s oldest question with a single line of JavaScript
@@ -187,16 +161,6 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliota&repo=oliota.github.io)](https://github.com/oliota/oliota.github.io)
-
-<!-- 
-[![oliota's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oliota)](https://github.com/oliota/github-readme-stats) -->
-
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliota&theme=vue)](https://oliota.herokuapp.com/) -->
-
-
-
-<!-- [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8026932)](https://stackoverflow.com/users/6558042/omid-nikrah) -->
 
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
