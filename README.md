@@ -94,7 +94,7 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 <tr>
 
-<td >&nbsp;&nbsp;🪑🎲🎲&nbsp;&nbsp;</td>
+<td >🪑🎲</td>
 <td >Database</td>
 <td>
 
