@@ -24,11 +24,11 @@
 
 ``` javascript
 //Fun fact: I once answered the world’s oldest question with a single line of JavaScript
-// Which came first: the chicken or the egg?
+// Which came first, the chicken or the egg?
 //Copy , paste and run in browser console
-alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
+alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔", "🐥","🍳"].sort().slice(0,2));
 
-//spoiler 🐔
+//spoiler First came the fried eggs, then came the chicken.🍳,🐔
 
 ```
 
