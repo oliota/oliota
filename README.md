@@ -5,10 +5,10 @@
 
 
 [![Carreira](https://img.shields.io/badge/Career-12%20years-blue)](https://oliota.com/cv)&nbsp;
-[![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-20-blue)](https://oliota.com/cursos)&nbsp;
+[![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-22-green)](https://oliota.com/cursos)&nbsp;
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Java/Angular+architect+at+Capgemini;Multistack+instructor+on+Proway)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+analist+at+Capgemini;Multistack+instructor+on+Proway)](https://git.io/typing-svg)
 
 
 <center>
