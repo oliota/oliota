@@ -33,12 +33,11 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 ```
 
  
-## 🎓 knowledge
-
-<table > 
-<tbody>
+## 🎓 knowledge 
+<table> 
+<tbody style="text-align:center">
 <tr>
-<td><center>👨🏻‍💻</center></td>
+<td width="60px">👨🏻‍💻</td>
 <td>Backend</td>
 <td>
 
@@ -53,7 +52,7 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 </tr>
 
 <tr>
-<td><center>👁‍🗨</center></td>
+<td>👁‍🗨</td>
 <td>Frontend</td>
 <td>
 
@@ -80,7 +79,7 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 <tr>
 
 
-<td><center>📲⌚</center></td>
+<td>📲⌚</td>
 <td>Mobile/Smartwatch</td>
 <td>
 
@@ -95,7 +94,7 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 <tr>
 
-<td ><center>🪑🎲🎲</center></td>
+<td >🪑🎲🎲</td>
 <td >Database</td>
 <td>
 
@@ -111,7 +110,7 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 <tr>
 
-<td><center>🔧</center></td>
+<td>🔧</td>
 <td>IDE</td>
 <td>
 
@@ -131,7 +130,7 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 <tr>
 
-<td><center>💾</center></td>
+<td>💾</td>
 <td>Version</td>
 <td>
 
@@ -146,7 +145,7 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 <tr>
 
-<td><center>🏁</center></td>
+<td>🏁</td>
 <td>Deploy</td>
 
  <td>
@@ -161,7 +160,7 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 </tr>
 
 
-<td><center>👨🏻‍🏫🎓</center></td>
+<td>👨🏻‍🏫🎓</td>
 <td>Teacher</td>
 
  <td>
@@ -177,7 +176,6 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 </tbody>
 </table>
-
  
 ![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue)
 
