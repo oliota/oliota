@@ -38,7 +38,8 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 <table > 
 <tbody>
 <tr>
-<td>👨🏻‍💻 - Backend</td>
+<td><center>👨🏻‍💻</center></td>
+<td>Backend</td>
 <td>
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
@@ -52,7 +53,8 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 </tr>
 
 <tr>
-<td>👁‍🗨 - Frontend</td>
+<td><center>👁‍🗨</center></td>
+<td>Frontend</td>
 <td>
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
@@ -77,7 +79,9 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 <tr>
 
-<td>📲 - Mobile</td>
+
+<td><center>📲⌚</center></td>
+<td>Mobile/Smartwatch</td>
 <td>
 
 ![Android](https://img.shields.io/badge/-Android%20java-black?style=flat&logo=Android&logoColor=green)&nbsp;
@@ -91,7 +95,8 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 <tr>
 
-<td>🪑🎲🎲 - Database</td>
+<td ><center>🪑🎲🎲</center></td>
+<td >Database</td>
 <td>
 
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
@@ -106,7 +111,8 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 <tr>
 
-<td>🔧 - IDE</td>
+<td><center>🔧</center></td>
+<td>IDE</td>
 <td>
 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
@@ -125,7 +131,8 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 <tr>
 
-<td>💾 - Version</td>
+<td><center>💾</center></td>
+<td>Version</td>
 <td>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
@@ -139,7 +146,8 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 <tr>
 
-<td>🏁 Deploy</td>
+<td><center>🏁</center></td>
+<td>Deploy</td>
 
  <td>
 
@@ -153,7 +161,8 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 </tr>
 
 
-<td>👨🏻‍🏫 - Teacher</td>
+<td><center>👨🏻‍🏫🎓</center></td>
+<td>Teacher</td>
 
  <td>
 
