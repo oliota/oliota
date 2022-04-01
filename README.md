@@ -37,7 +37,7 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 <table> 
 <tbody style="text-align:center">
 <tr>
-<td width="60px">👨🏻‍💻</td>
+<td >👨🏻‍💻</td>
 <td>Backend</td>
 <td>
 
@@ -94,7 +94,7 @@ alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 <tr>
 
-<td >🪑🎲🎲</td>
+<td >&nbsp;&nbsp;🪑🎲🎲&nbsp;&nbsp;</td>
 <td >Database</td>
 <td>
 
