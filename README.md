@@ -37,7 +37,7 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 <table > 
 <tbody>
 <tr>
-<td>Backend</td>
+<td>👨🏻‍💻 - Backend</td>
 <td>
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
@@ -51,7 +51,7 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 </tr>
 
 <tr>
-<td>Frontend</td>
+<td>👁‍🗨 - Frontend</td>
 <td>
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
@@ -76,7 +76,7 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
 <tr>
 
-<td>Mobile</td>
+<td>📲 - Mobile</td>
 <td>
 
 ![Android](https://img.shields.io/badge/-Android%20java-black?style=flat&logo=Android&logoColor=green)&nbsp;
@@ -90,7 +90,7 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
 <tr>
 
-<td>Database</td>
+<td>🪑🎲🎲 - Database</td>
 <td>
 
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
@@ -105,7 +105,7 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
 <tr>
 
-<td>IDE</td>
+<td>🔧 - IDE</td>
 <td>
 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
@@ -124,7 +124,7 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
 <tr>
 
-<td>Version</td>
+<td>💾 - Version</td>
 <td>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
@@ -138,7 +138,21 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
 <tr>
 
-<td>Deploy</td>
+<td>🏁 Deploy</td>
+
+ <td>
+
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
+![Firebase](https://img.shields.io/badge/-Google%20domains-black?style=flat&logo=google-domains)&nbsp;
+[![Google Play](https://img.shields.io/badge/-Google%20play-black?style=flat&logo=google-play)](https://play.google.com/store/apps/dev?id=4624325070796601602)&nbsp;
+
+</td>
+</tr>
+
+
+<td>👨🏻‍🏫 - Teacher</td>
 
  <td>
 
