@@ -186,15 +186,15 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)&nbsp;  
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
 
 ![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat&logo=jquery)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp; 
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
+
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js)&nbsp;
-
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
 
 
