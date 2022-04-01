@@ -13,9 +13,9 @@
 
 <center>
 
-[![Cursos ministrados](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rubemoliota@gmail.com&su=Contato%20-%20via%20perfil%20do%20github&body=Ol%C3%A1%20Rubem%20Tudo%20bem?/)&nbsp;
-[![Cursos ministrados](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
 
 </center>
 
@@ -25,12 +25,13 @@
 ``` javascript
 //Fun fact: I once answered the world’s oldest question with a single line of JavaScript
 // Which came first: the chicken or the egg?
-console.log([ "🐣","🥚", "🐔", "🐥"].sort());
+//Copy , paste and run in browser console
+alert([ "🐣","🥚", "🐔", "🐥"].sort()[0]);
 
 //spoiler 🐔
 
 ```
-  
+
  
 ## 🎓 knowledge
 
