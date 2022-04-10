@@ -320,17 +320,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 </tbody>
 </table>
 
-
-```flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-​```
+ 
 
  
 <!-- ![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue) -->
