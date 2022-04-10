@@ -44,11 +44,15 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=C&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
+![Delphi](https://img.shields.io/badge/-Delphi-black?style=flat&logo=Delphi&logoColor=ff0000)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
 ![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat&logo=Swagger)&nbsp;
+![cUrl](https://img.shields.io/badge/-cUrl-black?style=flat&logo=cUrl)&nbsp;
 
-
+</td>
 </tr>
 
 <tr>
@@ -63,6 +67,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)&nbsp;
 ![Materialize](https://img.shields.io/badge/-Materialize-black?style=flat&logo=Material-design&logoColor=red)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
+![Json](https://img.shields.io/badge/-Json-black?style=flat&logo=json)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat&logo=jquery)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
@@ -70,6 +75,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
+![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=CodePen)&nbsp;
 
 
 </td>
@@ -87,6 +93,34 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 ![Kotlin](https://img.shields.io/badge/-Android%20kotlin-black?style=flat&logo=kotlin&logoColor=green)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
 ![Swift](https://img.shields.io/badge/-IOS.Swift-black?style=flat&logo=Swift)&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+
+<td>👾🦾</td>
+<td>Robotics</td>
+<td>
+
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&logoColor=green)&nbsp;
+![Lego Mindstorms](https://img.shields.io/badge/-Lego%20Mindstorms-black?style=flat&logo=Alibaba+Cloud&logoColor=yellow)&nbsp;
+
+</td>
+
+</tr>
+
+<tr>
+
+
+<td>🎮</td>
+<td>Games</td>
+<td>
+
+![Game maker](https://img.shields.io/badge/-GameMaker-black?style=flat&logo=atom&logoColor=green)&nbsp;
+![Android](https://img.shields.io/badge/-Android%20java-black?style=flat&logo=Android&logoColor=green)&nbsp;
 
 </td>
 
@@ -160,6 +194,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 </tr>
 
 
+<tr>
 <td>👨🏻‍🏫🎓</td>
 <td>Teacher</td>
 
@@ -177,6 +212,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp; 
 
 
+</td>
 </tr>
 
 <tr>
@@ -283,18 +319,31 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 </tbody>
 </table>
+
+
+```flow
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+​```
+
  
-![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue)
+<!-- ![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&langs_count=50)](https://github.com/oliota/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&langs_count=50)](https://github.com/oliota/github-readme-stats) -->
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliota&repo=oliota.github.io)](https://github.com/oliota/oliota.github.io)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliota&repo=oliota.github.io)](https://github.com/oliota/oliota.github.io)
 
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
 
  
 
