@@ -20,8 +20,12 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=rubemoliota@gmail.com&su=Contato+-+via+perfil+github&body=Ol%C3%A1+Rubem+Tudo+bem?&tf=cm)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-Buy%20me%20a%20coffee-black?style=flat&logo=java&logoColor=white)](https://www.buymeacoffee.com/oliota/)&nbsp;
+
+
 
 </center>
+
 
 ---
 
@@ -35,6 +39,8 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 //spoiler First came the fried eggs, then came the chicken.🍳,🐔
 
 ```
+
+---
 
  
 ## 🎓 knowledge 
@@ -324,8 +330,15 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 </tbody>
 </table>
 
+---
+
+  ##  🏆 Trophies GitHub
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=oliota&row=1&&margin-w=30)](https://github.com/oliota)
  
 
+
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
  
 <!-- ![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue) -->
 
