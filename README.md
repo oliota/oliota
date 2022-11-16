@@ -1,6 +1,23 @@
 
 # Hi there🥳
 
+### Hi there 👋
+
+
+**eu mesmo que fiz**  
+
+``` javascript
+let message = 'Hello world';
+alert(message);
+```
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ... 
+
+
+
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 
