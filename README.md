@@ -62,6 +62,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat&logo=Swagger)&nbsp;
 ![cUrl](https://img.shields.io/badge/-cUrl-black?style=flat&logo=cUrl)&nbsp;
+![Websphere](https://img.shields.io/badge/-Websphere-black?style=flat&logo=ibm)&nbsp;
 
 </td>
 </tr>
@@ -149,6 +150,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 ![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql)&nbsp;
+![DB2](https://img.shields.io/badge/-DB2-black?style=flat&logo=ibm)&nbsp;
 
 </td>
 </tr>
