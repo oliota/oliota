@@ -13,7 +13,7 @@
 [![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-36-green?logo=sqlite&logoColor=white)](https://oliota.com/cursos)&nbsp;
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+analist+at+Capgemini;Multistack+instructor+on+Proway+entra21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+Software+Engineer+at+KWAN;LISBOA+PORTUGAL)](https://git.io/typing-svg)
 
 
 <center>
