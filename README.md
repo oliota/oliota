@@ -13,18 +13,55 @@
 [![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-36-green?logo=sqlite&logoColor=white)](https://oliota.com/cursos)&nbsp;
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+Software+Engineer+at+KWAN;LISBOA+PORTUGAL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+Software+Engineer+at+KWAN;LISBON+PORTUGAL)](https://git.io/typing-svg)
 
 
 <center>
+ 
 
-[![Site Pessoal](https://img.shields.io/badge/-Site_Pessoal-000?style=flat&logo=curl&logoColor=white)](https://www.oliota.com)&nbsp;
-[![Instagram](https://img.shields.io/badge/-Oliotaartesanato-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)&nbsp;
-[![Instagram](https://img.shields.io/badge/-robOLIOTA-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/roboliota/)&nbsp;
+
+ 
+
+
+
+
+
+
+   
+<table width="100%"> 
+        <th>
+
+[![Site Pessoal](https://img.shields.io/badge/-Site_Pessoal-000?style=flat&logo=curl&logoColor=white)](https://www.oliota.com)
+</th>
+        <th>
+
+[![Instagram](https://img.shields.io/badge/-Oliotaartesanato-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oliotaartesanato/)
+</th>
+        <th>
+
+[![Instagram](https://img.shields.io/badge/-roboOLIOTA-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/robooliota/)
+</th>
+        <th>
+        
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)
+</th> 
+        <tr>
+            <td>
+            <a href="https://www.oliota.com"><img src="img/redes_sociais/site_pessoal.png" alt="drawing" width="200"/></a></td>
+            <td>
+            <a href="https://www.instagram.com/oliotaartesanato/"><img src="img/redes_sociais/site_oliota_artesanato.png" alt="drawing" width="200"/></a></td>
+            <td>
+            <a href="https://www.instagram.com/robooliota/"><img src="img/redes_sociais/site_robooliota.png" alt="drawing" width="200"/>
+</a></td>
+            <td>
+            <a href="https://www.linkedin.com/in/rubem-oliota-abb273120/">
+<img src="img/redes_sociais/site_linkedin.png" alt="drawing" width="200"/></a></td>
+        </tr> 
+</table>
+
 [![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=rubemoliota@gmail.com&su=Contato+-+via+perfil+github&body=Ol%C3%A1+Rubem+Tudo+bem?&tf=cm)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-oliota-abb273120/)&nbsp;
+&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Buy%20me%20a%20coffee-black?style=flat&logo=java&logoColor=white)](https://www.buymeacoffee.com/oliota/)&nbsp;
-
 
 
 </center>
