@@ -9,11 +9,14 @@
 [![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-22-green)](https://oliota.com/cursos)&nbsp; -->
 
 
-[![Carreira](https://img.shields.io/badge/Career-14%20years-blue?logo=Coveralls)](https://oliota.com/cv)&nbsp;
+<!-- [![Carreira](https://img.shields.io/badge/Career-14%20years-blue?logo=Coveralls)](https://oliota.com/cv)&nbsp; -->
+[![Career](https://img.shields.io/badge/dynamic/json?color=blue&label=Career&query=$.years&url=https://oliota.herokuapp.com/career-years&logo=Coveralls)](https://oliota.com/cv)
+
 [![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-36-green?logo=sqlite&logoColor=white)](https://oliota.com/cursos)&nbsp;
 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+Software+Engineer+at+KWAN;LISBON+PORTUGAL)](https://git.io/typing-svg)
+
 
 
 <center>
@@ -189,7 +192,8 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 ![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql)&nbsp;
-![DB2](https://img.shields.io/badge/-DB2-black?style=flat&logo=ibm)&nbsp;
+![DB2](https://img.shields.io/badge/-DB2-black?style=flat&logo=db2)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)&nbsp;
 
 </td>
 </tr>
@@ -237,6 +241,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
  <td>
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-Git%20Lab-black?style=flat&logo=gitlab)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Google%20domains-black?style=flat&logo=google-domains)&nbsp;
@@ -377,7 +382,33 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
   ##  🏆 Trophies GitHub
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=oliota&row=1&&margin-w=30)](https://github.com/oliota)
+
+<table>
+<tbody style="text-align:center">
+<tr>
+<td>
  
+![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=highcontrast) 
+ 
+</td>
+<td>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&layout=compact&theme=highcontrast)  
+ 
+</td>
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliota&theme=highcontrast) 
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
+
+
 
 
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
