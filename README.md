@@ -188,7 +188,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
   <td colspan="2" valign="top">
     <h3>👨🏻‍🏫🎓 Teacher</h3>
     <p>
-      <a href="https://www.superprof.pt/painel-de-gestao.html/meus-anuncios/lista/13303657"><img src="https://img.shields.io/badge/Superprof-Profile-blue?style=flat&logo=superprof&logoColor=white" alt="Superprof Profile"></a>
+      <a href="https://www.superprof.pt/aprenda-java-javascript-node-angular-html-css-git-varios-niveis-basico-avancado-desvende-segredos.html"><img src="https://img.shields.io/badge/Superprof-Profile-blue?style=flat&logo=superprof&logoColor=white" alt="Superprof Profile"></a>
       &nbsp;
       <a href="https://www.superprof.pt/ir/30133358-424cd8"><img src="https://img.shields.io/badge/Superprof-Rate-green?style=flat&logo=superprof&logoColor=white" alt="Review Superprof"></a>
     </p>
