@@ -1,19 +1,47 @@
 
 # Hi there🥳
 
+<table width="100%">
+ <tbody style="text-align:center">
+ <tr width="100%">
+  <td>
+   
+![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
+
+  </td>
+  
+  
+  <td>
+   
+[![Career](https://img.shields.io/badge/dynamic/json?color=blue&label=Career&query=$.years&url=https://oliota.herokuapp.com/career-years&logo=Coveralls)](https://oliota.com/cv)
+
+  </td>
+  
+  
+  <td>
+   
+[![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-36-green?logo=sqlite&logoColor=white)](https://oliota.com/cursos)&nbsp;
+
+  </td>
+ </tr>
+ 
+</tbody>
+</table>
+
+<!--
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 
-<!-- [![Carreira](https://img.shields.io/badge/Career-12%20years-blue)](https://oliota.com/cv)&nbsp;
+ [![Carreira](https://img.shields.io/badge/Career-12%20years-blue)](https://oliota.com/cv)&nbsp;
 [![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-22-green)](https://oliota.com/cursos)&nbsp; -->
 
 
-<!-- [![Carreira](https://img.shields.io/badge/Career-14%20years-blue?logo=Coveralls)](https://oliota.com/cv)&nbsp; -->
+<!-- [![Carreira](https://img.shields.io/badge/Career-14%20years-blue?logo=Coveralls)](https://oliota.com/cv)&nbsp;
 [![Career](https://img.shields.io/badge/dynamic/json?color=blue&label=Career&query=$.years&url=https://oliota.herokuapp.com/career-years&logo=Coveralls)](https://oliota.com/cv)
 
 [![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-36-green?logo=sqlite&logoColor=white)](https://oliota.com/cursos)&nbsp;
-
+ -->
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+Software+Engineer+at+KWAN;LISBON+PORTUGAL)](https://git.io/typing-svg)
 
@@ -68,11 +96,8 @@
 
 
 </center>
-
-
----
-
-
+ 
+<!--
 ``` javascript
 //Fun fact: I once answered the world’s oldest question with a single line of JavaScript
 // Which came first, the chicken or the egg?
@@ -82,7 +107,8 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 //spoiler First came the fried eggs, then came the chicken.🍳,🐔
 
 ```
-
+ -->
+ 
 ---
 
  ## 🎓 Knowledge
@@ -208,17 +234,17 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 <tr>
 <td>
  
-![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=highcontrast) 
+![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue) 
  
 </td>
 <td>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&layout=compact&theme=highcontrast)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&layout=compact&theme=vue)  
  
 </td>
 <td>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliota&theme=highcontrast) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliota&theme=vue) 
 
 </td>
 </tr>
