@@ -28,6 +28,8 @@
 </tbody>
 </table>
 
+![Snake animation](https://github.com/oliota/oliota/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
