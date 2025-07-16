@@ -251,7 +251,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 "The more we have the less we own."
 — Meister Eckhart
 ```
-
+<!-- thought:end -->
 
 
 
