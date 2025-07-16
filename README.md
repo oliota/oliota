@@ -245,6 +245,9 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
+qualquer coisa aqui
+<!-- thought:end -->
+
 
 
 
