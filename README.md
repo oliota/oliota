@@ -28,25 +28,14 @@
 </tbody>
 </table>
 
-![Snake animation](https://github.com/oliota/oliota/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-
-![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 
- [![Carreira](https://img.shields.io/badge/Career-12%20years-blue)](https://oliota.com/cv)&nbsp;
-[![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-22-green)](https://oliota.com/cursos)&nbsp; -->
-
-
-<!-- [![Carreira](https://img.shields.io/badge/Career-14%20years-blue?logo=Coveralls)](https://oliota.com/cv)&nbsp;
-[![Career](https://img.shields.io/badge/dynamic/json?color=blue&label=Career&query=$.years&url=https://oliota.herokuapp.com/career-years&logo=Coveralls)](https://oliota.com/cv)
-
-[![Cursos ministrados](https://img.shields.io/badge/Courses%20taught-36-green?logo=sqlite&logoColor=white)](https://oliota.com/cursos)&nbsp;
- -->
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+Software+Engineer+at+KWAN;LISBON+PORTUGAL)](https://git.io/typing-svg)
 
+---
+
+![Snake animation](https://github.com/oliota/oliota/blob/output/github-contribution-grid-snake.svg)
 
 
 <center>
@@ -255,6 +244,9 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 </table>
 
 
+<!-- thought:start -->
+...
+<!-- thought:end -->
 
 
 
