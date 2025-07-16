@@ -39,8 +39,8 @@
 ![Data](https://img.shields.io/badge/16/07/2025-Zen--Thought-blue)
 
 ```txt
-"Don't want anything. Then you get everything."
-— Seungsahn
+"Keep others in suspense, cultivate an air of unpredictability."
+— Robert Greene
 ```
 <!-- thought:end -->
 
