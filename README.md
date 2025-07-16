@@ -248,8 +248,8 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 ![Data](https://img.shields.io/badge/16/07/2025-Zen--Thought-blue)
 
 ```txt
-"The more we have the less we own."
-— Meister Eckhart
+"There is no self-discovery without pain and loss."
+— Anita Krizzan
 ```
 <!-- thought:end -->
 
