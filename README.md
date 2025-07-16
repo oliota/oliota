@@ -249,8 +249,8 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 ![Data](https://img.shields.io/badge/16/07/2025-Zen--Thought-blue)
 
 ```txt
-"Keep your face always toward the sunshine -  shadows will fall behind you."
-— Walt Whitman
+"Don't want anything. Then you get everything."
+— Seungsahn
 ```
 <!-- thought:end -->
  
