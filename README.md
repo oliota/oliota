@@ -244,6 +244,15 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 </table>
 
 
+
+<!-- thought:start -->
+![Data](https://img.shields.io/badge/16/07/2025-Zen--Thought-blue)
+
+```txt
+"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."
+— Josh Waitzkin
+```
+<!-- thought:end -->
  
 
 
@@ -259,12 +268,3 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
  
 
 
-
-<!-- thought:start -->
-![Data](https://img.shields.io/badge/16/07/2025-Zen--Thought-blue)
-
-```txt
-"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."
-— Josh Waitzkin
-```
-<!-- thought:end -->
