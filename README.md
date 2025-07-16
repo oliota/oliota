@@ -245,6 +245,9 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
+<!-- conteúdo será substituído automaticamente aqui -->
+<!-- thought:end -->
+
 
 
 
@@ -252,17 +255,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
  
-<!-- ![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue) -->
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&langs_count=50)](https://github.com/oliota/github-readme-stats) -->
-
-
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliota&repo=oliota.github.io)](https://github.com/oliota/oliota.github.io)
-
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
+ 
 
  
 
