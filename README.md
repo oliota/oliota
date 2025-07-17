@@ -36,11 +36,11 @@
 ---
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/16/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/17/07/2025-Zen--Thought-blue)
 
 ```txt
-"Keep others in suspense, cultivate an air of unpredictability."
-— Robert Greene
+"If you do what you've always done, you'll get what you've always gotten."
+— Tony Robbins
 ```
 <!-- thought:end -->
 
