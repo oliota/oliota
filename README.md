@@ -29,6 +29,30 @@
 </table>
 
 
+---
+
+<table>
+<tbody style="text-align:center">
+<tr>
+<td>
+ 
+![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue) 
+ 
+</td>
+<td>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&layout=compact&theme=vue)  
+ 
+</td>
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliota&theme=vue) 
+
+</td>
+</tr>
+
+</tbody>
+</table>
 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+Software+Engineer+at+KWAN;LISBON+PORTUGAL)](https://git.io/typing-svg)
@@ -45,8 +69,6 @@
 <!-- thought:end -->
 
 ---
-
-![Snake animation](https://github.com/oliota/oliota/blob/output/github-contribution-grid-snake.svg)
 
 
 <center>
@@ -231,30 +253,11 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=oliota&row=1&&margin-w=30)](https://github.com/oliota)
 
-<table>
-<tbody style="text-align:center">
-<tr>
-<td>
- 
-![Oliota's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliota&show_icons=true&theme=vue) 
- 
-</td>
-<td>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&layout=compact&theme=vue)  
- 
-</td>
-<td>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliota&theme=vue) 
-
-</td>
-</tr>
-
-</tbody>
-</table>
 
 
+
+
+![Snake animation](https://github.com/oliota/oliota/blob/output/github-contribution-grid-snake.svg)
 
 
  
