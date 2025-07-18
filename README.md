@@ -36,11 +36,11 @@
 ---
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/17/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/18/07/2025-Zen--Thought-blue)
 
 ```txt
-"If you do what you've always done, you'll get what you've always gotten."
-— Tony Robbins
+"The older you get the stronger the wind gets - and it's always in your face."
+— Pablo Picasso
 ```
 <!-- thought:end -->
 
