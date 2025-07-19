@@ -60,11 +60,11 @@
 ---
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/18/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/19/07/2025-Zen--Thought-blue)
 
 ```txt
-"The older you get the stronger the wind gets - and it's always in your face."
-— Pablo Picasso
+"Failure is the key to success; each mistake teaches us something."
+— Morihei Ueshiba
 ```
 <!-- thought:end -->
 
