@@ -60,11 +60,11 @@
 ---
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/20/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/21/07/2025-Zen--Thought-blue)
 
 ```txt
-"Kind words can be short and easy to speak, but their echoes are truly endless."
-— Mother Teresa
+"To every action there is always opposed an equal reaction."
+— Isaac Newton
 ```
 <!-- thought:end -->
 
