@@ -60,11 +60,11 @@
 ---
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/21/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/22/07/2025-Zen--Thought-blue)
 
 ```txt
-"To every action there is always opposed an equal reaction."
-— Isaac Newton
+"The idea of ourselves is our escape from the fact of what we really are."
+— Jiddu Krishnamurti
 ```
 <!-- thought:end -->
 
