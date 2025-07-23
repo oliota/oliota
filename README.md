@@ -60,11 +60,11 @@
 ---
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/22/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/23/07/2025-Zen--Thought-blue)
 
 ```txt
-"The idea of ourselves is our escape from the fact of what we really are."
-— Jiddu Krishnamurti
+"Successful people ask better questions, and as a result, they get better answers."
+— Tony Robbins
 ```
 <!-- thought:end -->
 
