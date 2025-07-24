@@ -60,11 +60,11 @@
 ---
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/23/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/24/07/2025-Zen--Thought-blue)
 
 ```txt
-"Successful people ask better questions, and as a result, they get better answers."
-— Tony Robbins
+"He who wishes to be obeyed must know how to command."
+— Niccolo Machiavelli
 ```
 <!-- thought:end -->
 
