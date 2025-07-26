@@ -60,11 +60,11 @@
 ---
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/25/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/26/07/2025-Zen--Thought-blue)
 
 ```txt
-"Once you choose hope, anything's possible."
-— Christopher Reeve
+"Be brave. Take risks. Nothing can substitute experience."
+— Paulo Coelho
 ```
 <!-- thought:end -->
 
