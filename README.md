@@ -60,11 +60,11 @@
 ---
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/26/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/27/07/2025-Zen--Thought-blue)
 
 ```txt
-"Be brave. Take risks. Nothing can substitute experience."
-— Paulo Coelho
+"A wise person should have money in their head, but not in their heart."
+— Jonathan Swift
 ```
 <!-- thought:end -->
 
