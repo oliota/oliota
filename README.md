@@ -1,7 +1,7 @@
 
 # Hi there🥳
 
-
+ 
 
 <table width="100%">
  <tbody style="text-align:center">
@@ -62,7 +62,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Rubem+Oliota;Senior+Software+Engineer+at+KWAN;LISBON+PORTUGAL)](https://git.io/typing-svg)
 
 ---
-<img src="https://heroku-backend-nodejs-fd16668acdd6.herokuapp.com/api/v1/summary-svg?user=oliota" alt="GitHub Summary" />
+
+
+![GitHub Summary](https://heroku-backend-nodejs-fd16668acdd6.herokuapp.com/api/v1/summary-svg?user=oliota)
+
 
 
 
