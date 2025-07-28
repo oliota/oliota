@@ -60,11 +60,11 @@
 ---
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/27/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/28/07/2025-Zen--Thought-blue)
 
 ```txt
-"A wise person should have money in their head, but not in their heart."
-— Jonathan Swift
+"To bear trials with a calm mind robs misfortune of its strength and burden."
+— Seneca
 ```
 <!-- thought:end -->
 
