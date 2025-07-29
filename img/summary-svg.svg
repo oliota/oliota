@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="580">
+  <style>
+    .rank-text {
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #273849;
+      animation: scaleInAnimation 0.3s ease-in-out forwards;
+    }
+
+
+    .streak-circle {
+      stroke-dasharray: 360;
+      fill: none;
+      stroke-width: 8;
+      stroke-linecap: round;
+      opacity: 0.8;
+      transform: rotate(-90deg);
+      transform-origin: center;
+      animation: streakAnimation 1s forwards ease-in-out;
+    }
+      
+    .streak-circle-rim {
+      stroke: #a99df9;
+      fill: none;
+      stroke-width: 12;
+      opacity: 0.2;
+    } 
+    
+    @keyframes streakAnimation {
+      from { stroke-dashoffset: 360; }
+      to { stroke-dashoffset:  325.57; }
+    }
+      
+
+
+
+    .rank-circle {
+      stroke-dasharray: 360;
+      fill: none;
+      stroke-width: 8;
+      stroke-linecap: round;
+      opacity: 0.8;
+      transform: rotate(-90deg);
+      transform-origin: center;
+      animation: rankAnimation 1s forwards ease-in-out;
+    }
+      .rank-circle-rim {
+      stroke: #ffea60;
+      fill: none;
+      stroke-width: 12;
+      opacity: 0.2;
+    }
+
+    @keyframes rankAnimation {
+      from { stroke-dashoffset: 360; }
+      to { stroke-dashoffset:  0; }
+    }
+
+
+    @keyframes scaleInAnimation {
+      from { transform: scale(0); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="1098" height="458" rx="16" ry="16" fill="white" stroke="#ccc" stroke-width="2"/>
+  <text x="550" y="40" font-size="20" text-anchor="middle" font-weight="bold" fill="#003366">Rubem Oliota – GitHub Summary</text>
+  <line x1="10" y1="60" x2="1090" y2="60" stroke="#ccc" stroke-width="1"/>
+
+  <g font-size="15" font-weight="bold" fill="#003366">
+    <text x="45" y="90">Contributions</text>
+    <text x="45" y="140" fill="green">Total:</text>
+    <text x="180" y="140" fill="black">549</text>
+    <text x="45" y="170" fill="green">Longest Streak:</text>
+    <text x="180" y="170" fill="black">35 days</text>
+    <line x1="40" y1="190" x2="400" y2="190" stroke="#ccc" stroke-width="1"/>
+    <text x="45" y="210">Stats</text>
+    <text x="45" y="240" fill="green">Stars:</text>
+    <text x="180" y="240" fill="black">139</text>
+    <text x="45" y="270" fill="green">Commits in 2025:</text>
+    <text x="180" y="270" fill="black">532</text>
+    <text x="45" y="300" fill="green">PRs:</text>
+    <text x="180" y="300" fill="black">113</text>
+    <text x="45" y="330" fill="green">Issues:</text>
+    <text x="180" y="330" fill="black">4</text>
+    <text x="45" y="360" fill="green">Contributed to:</text>
+    <text x="180" y="360" fill="black">4</text>
+  </g>
+
+  <g font-weight="bold" font-size="15" fill="#003366">
+    <text x="780" y="90">Top Languages</text>
+    <text x="780" y="120" fill="saddlebrown">Java</text>
+<rect x="880" y="110" width="0" height="10" fill="saddlebrown">
+  <animate attributeName="width" from="0" to="32" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="119" fill="black">31.8%</text>
+<text x="780" y="145" fill="orangered">HTML</text>
+<rect x="880" y="135" width="0" height="10" fill="orangered">
+  <animate attributeName="width" from="0" to="32" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="144" fill="black">31.8%</text>
+<text x="780" y="170" fill="black">C#</text>
+<rect x="880" y="160" width="0" height="10" fill="black">
+  <animate attributeName="width" from="0" to="11" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="169" fill="black">11.4%</text>
+<text x="780" y="195" fill="gold">JavaScript</text>
+<rect x="880" y="185" width="0" height="10" fill="gold">
+  <animate attributeName="width" from="0" to="9" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="194" fill="black">9.1%</text>
+<text x="780" y="220" fill="rebeccapurple">CSS</text>
+<rect x="880" y="210" width="0" height="10" fill="rebeccapurple">
+  <animate attributeName="width" from="0" to="7" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="219" fill="black">6.8%</text>
+<text x="780" y="245" fill="skyblue">Python</text>
+<rect x="880" y="235" width="0" height="10" fill="skyblue">
+  <animate attributeName="width" from="0" to="5" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="244" fill="black">4.5%</text>
+  </g>
+
+  <g transform="translate(0, 0)">
+    <circle class="streak-circle-rim" cx="550" cy="160" r="60"/>
+    <circle class="streak-circle" cx="680" cy="290" r="60" stroke="#6c5ce7"/>
+    <circle cx="550" cy="95" r="20" fill="white"/>
+    <text x="535" y="100" font-size="22">🔥</text>
+    <text x="550" y="120" class="rank-text" text-anchor="middle">35</text>
+    <text x="550" y="135" fill="#003366" text-anchor="middle" font-size="15" font-weight="bold">Days streak</text>
+    <text x="550" y="160" fill="black" text-anchor="middle" font-size="15">25/06/2025</text>
+    <text x="550" y="170" fill="black" text-anchor="middle" font-size="15" font-weight="bold">...</text>
+    <text x="550" y="190" fill="black" text-anchor="middle" font-size="15">29/07/2025</text>
+  </g>
+
+  <g transform="translate(0, 165)">
+    <circle class="rank-circle-rim" cx="550" cy="160" r="60"  />
+    <circle class="rank-circle" cx="680" cy="290" r="60" stroke="#ffd700"/>
+    <circle cx="550" cy="95" r="20" fill="white"/>
+    <text x="535" y="100" font-size="22">🔝</text>
+    <text x="550" y="140" class="rank-text" text-anchor="middle">S</text>
+    <text x="550" y="165" fill="#003366" text-anchor="middle" font-size="15" font-weight="bold">Overall Rank</text>
+  </g>
+</svg>
