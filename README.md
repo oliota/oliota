@@ -72,11 +72,11 @@
 
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/28/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/29/07/2025-Zen--Thought-blue)
 
 ```txt
-"To bear trials with a calm mind robs misfortune of its strength and burden."
-— Seneca
+"There is only one thing in the world worse than being talked about, and that is not being talked about. "
+— Oscar Wilde
 ```
 <!-- thought:end -->
 
