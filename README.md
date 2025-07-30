@@ -66,14 +66,14 @@
 
 
  <!--
-<img src="https://heroku-backend-nodejs-fd16668acdd6.herokuapp.com/api/v1/summary-svg?user=oliota" />
-![GitHub Summary](https://heroku-backend-nodejs-fd16668acdd6.herokuapp.com/api/v1/summary-svg?user=oliota)
 
 
--->
+
 <img src="img/summary-svg.svg" alt="drawing"  />
+![GitHub Summary](https://heroku-backend-nodejs-fd16668acdd6.herokuapp.com/api/v1/summary-svg?user=oliota)
+-->
 
-
+<img src="https://heroku-backend-nodejs-fd16668acdd6.herokuapp.com/api/v1/summary-svg?user=oliota" />
 
 
 <!-- thought:start -->
