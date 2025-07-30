@@ -77,11 +77,11 @@
 
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/29/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/30/07/2025-Zen--Thought-blue)
 
 ```txt
-"There is only one thing in the world worse than being talked about, and that is not being talked about. "
-— Oscar Wilde
+"Poverty and hardship are created by false thinking."
+— Bodhidharma
 ```
 <!-- thought:end -->
 
