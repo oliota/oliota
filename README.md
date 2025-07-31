@@ -83,11 +83,11 @@
 
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/30/07/2025-Zen--Thought-blue)
+![Data](https://img.shields.io/badge/31/07/2025-Zen--Thought-blue)
 
 ```txt
-"Poverty and hardship are created by false thinking."
-— Bodhidharma
+"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+— Martin Luther King, Jr.
 ```
 <!-- thought:end -->
 
