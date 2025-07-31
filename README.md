@@ -83,12 +83,17 @@
 
 
 <!-- thought:start -->
-![Data](https://img.shields.io/badge/31/07/2025-Zen--Thought-blue)
+<p><img src="https://img.shields.io/badge/31%2F07%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
-```txt
-"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
-— Martin Luther King, Jr.
-```
+<table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
+  <tr>
+    <td style="background:#f9f9f9; text-align:center;">
+      &quot;Victory is always possible for the person who refuses to stop fighting.&quot;<br><strong>— Napoleon Hill</strong>
+    </td>
+  </tr>
+</table>
+
+<br><br>
 <!-- thought:end -->
 
 ---
