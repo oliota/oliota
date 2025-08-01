@@ -293,6 +293,7 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 
+![Snake with border](https://raw.githubusercontent.com/oliota/oliota/refs/heads/main/img/svg/snake/snake_updated.svg)
 
 
 
