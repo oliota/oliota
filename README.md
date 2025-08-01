@@ -88,7 +88,7 @@
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;In the long run, the sharpest weapon of all is a kind and gentle spirit.&quot;<br><strong>— Anne Frank</strong>
+      &quot;Do the hard jobs first. The easy jobs will take care of themselves.&quot;<br><strong>— Dale Carnegie</strong>
     </td>
   </tr>
 </table>
