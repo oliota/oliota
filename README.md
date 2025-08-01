@@ -283,15 +283,14 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 [![trophy](https://github-profile-trophy.vercel.app/?username=oliota&row=1&&margin-w=30)](https://github.com/oliota)
 
 
-
-
+ 
 
 ![Snake animation](https://github.com/oliota/oliota/blob/output/github-contribution-grid-snake.svg)
- 
 
-![Snake bordered](https://github.com/oliota/oliota/blob/output/img/snake/snake_updated.svg)
+--- 
 
- 
+![Snake with border](https://raw.githubusercontent.com/oliota/oliota/main/img/svg/snake/snake_updated.svg)
+
 
 
 
