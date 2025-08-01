@@ -19,8 +19,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
+      - name: Set full permissions for custom script
+        run: chmod 777 .github/scripts/generate_snake_custom.sh
+
       - name: Generate custom snake SVG with border
-        run: bash scripts/generate_snake_custom.sh
+        run: bash .github/scripts/generate_snake_custom.sh
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
