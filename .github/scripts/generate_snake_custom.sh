@@ -19,8 +19,8 @@ MONTH_NAMES=(January February March April May June July August September October
 
 declare -a MONTHS=()
 declare -a YEARS=()
-for ((i=0; i<12; i++)); do
-  IDX=$((CURRENT_MONTH - 11 + i))
+for ((i=0; i<13; i++)); do
+  IDX=$((CURRENT_MONTH - 12 + i))
   YEAR=$CURRENT_YEAR
   if (( IDX <= 0 )); then
     IDX=$((IDX + 12))
@@ -33,12 +33,13 @@ done
 LABELS=""
 declare -A YEAR_RANGES=()
 
+# Textos dos meses completos, em y=0
 for i in "${!MONTHS[@]}"; do
   NAME=${MONTHS[$i]}
   YEAR=${YEARS[$i]}
-  PERCENT=$(awk "BEGIN { printf \"%.4f\", ($i + 0.5)/12 }")
+  PERCENT=$(awk "BEGIN { printf \"%.4f\", ($i + 0.5)/13 }")
   X=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * $PERCENT) }")
-  LABELS="${LABELS}<text x=\"$X\" y=\"-12\" font-size=\"10\" fill=\"#666\" text-anchor=\"middle\">$NAME</text>\n"
+  LABELS="${LABELS}<text x=\"$X\" y=\"0\" font-size=\"12\" fill=\"#666\" text-anchor=\"middle\">$NAME</text>\n"
 
   if [[ -z "${YEAR_RANGES[$YEAR]}" ]]; then
     YEAR_RANGES[$YEAR]="$i:$i"
@@ -52,21 +53,25 @@ for i in "${!MONTHS[@]}"; do
   fi
 done
 
+# Linha horizontal e vertical para cada ano (y = -10 linha horizontal, y=-15 linha vertical)
 for YEAR in "${!YEAR_RANGES[@]}"; do
   IFS=':' read -r START END <<< "${YEAR_RANGES[$YEAR]}"
+  X1=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * $START / 13) }")
+  X2=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * (($END + 1) / 13)) }")
 
-  # Corrigir barra mínima para ter pelo menos largura de 1 mês
-  LENGTH=$(( END - START + 1 ))
-  if (( LENGTH < 1 )); then
-    END=$((START + 1))
-  fi
+  # Linha horizontal do ano
+  LABELS="${LABELS}<line x1=\"$X1\" y1=\"-10\" x2=\"$X2\" y2=\"-10\" stroke=\"#999\" stroke-width=\"2\" />\n"
+done
 
-  X1=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * $START / 12) }")
-  X2=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * (($END + 1) / 12)) }")
-  XMID=$(((X1 + X2) / 2))
-
-  LABELS="${LABELS}<text x=\"$XMID\" y=\"-32\" font-size=\"11\" fill=\"#333\" text-anchor=\"middle\">$YEAR</text>\n"
-  LABELS="${LABELS}<line x1=\"$X1\" y1=\"-26\" x2=\"$X2\" y2=\"-26\" stroke=\"#aaa\" stroke-width=\"2\" />\n"
+# Linha vertical divisória entre anos (exceto para o último ano)
+YEARS_SORTED=($(echo "${!YEAR_RANGES[@]}" | tr ' ' '\n' | sort))
+for ((i=0; i < ${#YEARS_SORTED[@]} - 1; i++)); do
+  CUR_YEAR=${YEARS_SORTED[$i]}
+  NEXT_YEAR=${YEARS_SORTED[$((i + 1))]}
+  CUR_END=${YEAR_RANGES[$CUR_YEAR]##*:}
+  # Posição da linha vertical (entre o fim do ano atual e começo do próximo)
+  XV=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * (($CUR_END + 1) / 13)) }")
+  LABELS="${LABELS}<line x1=\"$XV\" y1=\"-20\" x2=\"$XV\" y2=\"5\" stroke=\"#999\" stroke-width=\"2\" />\n"
 done
 
 echo "$(cat "$ORIGINAL")" | sed "s|<svg[^>]*>|&\n$BORDER\n$LABELS|" > "$TARGET"
