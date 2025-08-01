@@ -31,6 +31,7 @@
 </table>
 
 
+
 ---
 <!--
 
@@ -83,22 +84,11 @@
 
 
 
-<!-- thought:start -->
-<p><img src="https://img.shields.io/badge/01%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
-<table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
-  <tr>
-    <td style="background:#f9f9f9; text-align:center;">
-      &quot;Do the hard jobs first. The easy jobs will take care of themselves.&quot;<br><strong>— Dale Carnegie</strong>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-<!-- thought:end -->
 
 ---
 
+![Snake with border](https://raw.githubusercontent.com/oliota/oliota/refs/heads/main/img/svg/snake/snake_updated.svg)
 
 <center>
  
@@ -284,16 +274,32 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
  
-
+<!--
+  
 ![Snake animation](https://github.com/oliota/oliota/blob/output/github-contribution-grid-snake.svg)
 
---- 
+ 
 
 ![Snake with border](https://raw.githubusercontent.com/oliota/oliota/main/img/svg/snake/snake_updated.svg)
+ -->
+ 
 
 
 
-![Snake with border](https://raw.githubusercontent.com/oliota/oliota/refs/heads/main/img/svg/snake/snake_updated.svg)
+<!-- thought:start -->
+<p><img src="https://img.shields.io/badge/01%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+
+<table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
+  <tr>
+    <td style="background:#f9f9f9; text-align:center;">
+      &quot;Do the hard jobs first. The easy jobs will take care of themselves.&quot;<br><strong>— Dale Carnegie</strong>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+<!-- thought:end -->
+
 
 
 
