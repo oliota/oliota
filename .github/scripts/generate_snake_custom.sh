@@ -54,15 +54,24 @@ done
 
 for YEAR in "${!YEAR_RANGES[@]}"; do
   IFS=':' read -r START END <<< "${YEAR_RANGES[$YEAR]}"
-  X1=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * $START / 13) }")
-  X2=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * (($END + 1) / 13)) }")
-  MID_X=$(awk "BEGIN { printf \"%d\", ($X1 + $X2)/2 }")
+
+  # Ajuste especial para o primeiro ano na lista ordenada: começa em x=0 e largura recalculada
+  YEARS_SORTED=($(echo "${!YEAR_RANGES[@]}" | tr ' ' '\n' | sort))
+  if [[ $YEAR == "${YEARS_SORTED[0]}" ]]; then
+    X1=0
+    # Largura recalculada para cobrir até o final da faixa do ano
+    X2=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * (($END + 1) / 13)) }")
+    # Corrigindo largura para compensar a redução do padding inicial (que foi zerado)
+    X2=$((X2 + PADDING))
+  else
+    X1=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * $START / 13) }")
+    X2=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * (($END + 1) / 13)) }")
+  fi
 
   LABELS="${LABELS}<line x1=\"$X1\" y1=\"-15\" x2=\"$X2\" y2=\"-15\" stroke=\"#000\" stroke-width=\"2\" />\n"
-  LABELS="${LABELS}<text x=\"$MID_X\" y=\"-20\" font-size=\"14\" fill=\"#000\" text-anchor=\"middle\">$YEAR</text>\n"
 done
 
-YEARS_SORTED=($(echo "${!YEAR_RANGES[@]}" | tr ' ' '\n' | sort))
+# Linhas verticais divisórias entre anos, exceto para o último ano
 for ((i=0; i < ${#YEARS_SORTED[@]} - 1; i++)); do
   CUR_YEAR=${YEARS_SORTED[$i]}
   CUR_END=${YEAR_RANGES[$CUR_YEAR]##*:}
