@@ -6,7 +6,7 @@ TARGET="img/svg/snake/snake_updated.svg"
 
 mkdir -p img/svg/snake
 
-BORDER='<rect x="-16" y="-32" width="880" height="192" rx="20" ry="20" fill="none" stroke="#000" stroke-width="2"/>'
+BORDER='<rect x="-16" y="-32" width="880" height="192" rx="20" ry="20" fill="#fff" stroke="#000" stroke-width="2"/>'
 
 WIDTH=880
 PADDING=16
@@ -80,4 +80,12 @@ for ((i=0; i < ${#YEARS_SORTED[@]} - 1; i++)); do
   LABELS="${LABELS}<line x1=\"$XV\" y1=\"-15\" x2=\"$XV\" y2=\"0\" stroke=\"#000\" stroke-width=\"2\" />\n"
 done
 
-sed "s|<svg[^>]*>|&\n$BORDER\n$LABELS|" "$ORIGINAL" > "$TARGET"
+# Escape slashes and ampersands for sed
+escape_sed() {
+  printf '%s' "$1" | sed -e 's/[\/&]/\\&/g'
+}
+
+BORDER_ESCAPED=$(escape_sed "$BORDER")
+LABELS_ESCAPED=$(escape_sed "$LABELS")
+
+sed "s|<svg[^>]*>|&\n$BORDER_ESCAPED\n$LABELS_ESCAPED|" "$ORIGINAL" > "$TARGET"
