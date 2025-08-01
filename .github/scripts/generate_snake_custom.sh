@@ -6,7 +6,7 @@ TARGET="img/svg/snake/snake_updated.svg"
 
 mkdir -p img/svg/snake
 
-BORDER='<rect x="-16" y="-32" width="880" height="192" rx="20" ry="20" fill="none" stroke="#999" stroke-width="2"/>'
+BORDER='<rect x="-16" y="-32" width="880" height="192" rx="20" ry="20" fill="none" stroke="#000" stroke-width="2"/>'
 
 WIDTH=880
 PADDING=16
@@ -33,7 +33,6 @@ done
 LABELS=""
 declare -A YEAR_RANGES=()
 
-# Textos dos meses completos, em y=0
 for i in "${!MONTHS[@]}"; do
   NAME=${MONTHS[$i]}
   YEAR=${YEARS[$i]}
@@ -53,25 +52,20 @@ for i in "${!MONTHS[@]}"; do
   fi
 done
 
-# Linha horizontal e vertical para cada ano (y = -10 linha horizontal, y=-15 linha vertical)
 for YEAR in "${!YEAR_RANGES[@]}"; do
   IFS=':' read -r START END <<< "${YEAR_RANGES[$YEAR]}"
   X1=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * $START / 13) }")
   X2=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * (($END + 1) / 13)) }")
 
-  # Linha horizontal do ano
-  LABELS="${LABELS}<line x1=\"$X1\" y1=\"-10\" x2=\"$X2\" y2=\"-10\" stroke=\"#999\" stroke-width=\"2\" />\n"
+  LABELS="${LABELS}<line x1=\"$X1\" y1=\"-15\" x2=\"$X2\" y2=\"-15\" stroke=\"#000\" stroke-width=\"2\" />\n"
 done
 
-# Linha vertical divisória entre anos (exceto para o último ano)
 YEARS_SORTED=($(echo "${!YEAR_RANGES[@]}" | tr ' ' '\n' | sort))
 for ((i=0; i < ${#YEARS_SORTED[@]} - 1; i++)); do
   CUR_YEAR=${YEARS_SORTED[$i]}
-  NEXT_YEAR=${YEARS_SORTED[$((i + 1))]}
   CUR_END=${YEAR_RANGES[$CUR_YEAR]##*:}
-  # Posição da linha vertical (entre o fim do ano atual e começo do próximo)
   XV=$(awk "BEGIN { printf \"%d\", $PADDING + ($USABLE_WIDTH * (($CUR_END + 1) / 13)) }")
-  LABELS="${LABELS}<line x1=\"$XV\" y1=\"-20\" x2=\"$XV\" y2=\"5\" stroke=\"#999\" stroke-width=\"2\" />\n"
+  LABELS="${LABELS}<line x1=\"$XV\" y1=\"-15\" x2=\"$XV\" y2=\"0\" stroke=\"#000\" stroke-width=\"2\" />\n"
 done
 
-echo "$(cat "$ORIGINAL")" | sed "s|<svg[^>]*>|&\n$BORDER\n$LABELS|" > "$TARGET"
+sed "s|<svg[^>]*>|&\n$BORDER\n$LABELS|" "$ORIGINAL" > "$TARGET"
