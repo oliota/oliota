@@ -1,0 +1,361 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="460">
+  <style>
+    .rank-text {
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #273849;
+      animation: scaleInAnimation 0.3s ease-in-out forwards;
+    }
+
+
+    .streak-circle {
+      stroke-dasharray: 360;
+      fill: none;
+      stroke-width: 8;
+      stroke-linecap: round;
+      opacity: 0.8;
+      transform: rotate(-80deg);
+      transform-origin: center;
+      animation: streakAnimation 10s ease-in-out infinite;
+    }
+      
+    .streak-circle-rim {
+      stroke: #a99df9;
+      fill: none;
+      stroke-width: 12;
+      opacity: 0.2;
+    } 
+    
+    @keyframes streakAnimation {
+  0% { stroke-dashoffset: 360; }
+  50% { stroke-dashoffset: 322.62; }
+  100% { stroke-dashoffset: 360; }
+}
+
+
+
+    .rank-circle {
+      stroke-dasharray: 360;
+      fill: none;
+      stroke-width: 8;
+      stroke-linecap: round;
+      opacity: 0.8;
+      transform: rotate(-80deg);
+      transform-origin: center;
+      animation: rankAnimation 10s ease-in-out infinite;
+    }
+      .rank-circle-rim {
+      stroke: #ffea60;
+      fill: none;
+      stroke-width: 12;
+      opacity: 0.2;
+    }
+
+    @keyframes rankAnimation {
+  0% { stroke-dashoffset: 360; }
+  50% { stroke-dashoffset: 0; }
+  100% { stroke-dashoffset: 360; }
+}
+
+
+    @keyframes scaleInAnimation {
+      from { transform: scale(0); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+
+    .title-hover:hover rect {
+    fill: #d2f1fc;
+    transition: fill 0.4s ease;
+  }
+
+  .footer-hover:hover rect {
+  fill: #d2f1fc;
+  transition: fill 0.4s ease;
+}
+
+  </style>
+ 
+  
+<defs>
+  <pattern id="diagonalStripes" patternUnits="userSpaceOnUse" width="40" height="40" patternTransform="rotate(45)">
+    <rect width="20" height="40" fill="#f9f9f9"/>
+    <rect x="20" width="20" height="40" fill="#ffffff"/>
+    <animateTransform attributeName="patternTransform" type="translate" from="0,0" to="-40,0" dur="3s" repeatCount="indefinite"/>
+  </pattern>
+</defs>
+<rect x="1" y="1" width="1098" height="458" rx="16" ry="16" fill="url(#diagonalStripes)" stroke="#ccc" stroke-width="2"/>
+
+
+
+
+  <defs>
+    <clipPath id="clipTitleTopRounded">
+      <rect x="0" y="0" width="1100" height="60" rx="16" ry="16" />
+      <rect x="0" y="40" width="1100" height="20" fill="white" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clipTitleTopRounded)" class="title-hover">
+   <a href="https://oliota.github.io" target="_blank">
+    <rect x="0" y="0" width="1100" height="60" fill="transparent">
+      <animate attributeName="fill" values="transparent; #e0f7fa; transparent" dur="4s" repeatCount="indefinite" />
+    </rect>
+   
+      <text x="550" y="38" font-size="20" text-anchor="middle" font-weight="bold" fill="#003366" pointer-events="none">
+        Rubem Oliota – GitHub Activity
+      </text>
+    </a>
+  </g>
+  
+
+
+ 
+  <line x1="10" y1="60" x2="1090" y2="60" stroke="#ccc" stroke-width="1"/>
+
+  <g font-size="15" font-weight="bold" fill="#003366">
+    <text x="45" y="90">Contributions</text>
+    <text x="45" y="140" fill="green">Total:</text>
+    <text x="180" y="140" fill="black">609</text>
+    <text x="45" y="170" fill="green">Longest Streak:</text>
+    <text x="180" y="170" fill="black">38 days</text>
+    <line x1="40" y1="190" x2="400" y2="190" stroke="#ccc" stroke-width="1"/>
+    <text x="45" y="210">Stats</text>
+    <text x="45" y="240" fill="green">Stars:</text>
+    <text x="180" y="240" fill="black">139</text>
+    <text x="45" y="270" fill="green">Commits in 2025:</text>
+    <text x="180" y="270" fill="black">592</text>
+    <text x="45" y="300" fill="green">PRs:</text>
+    <text x="180" y="300" fill="black">113</text>
+    <text x="45" y="330" fill="green">Issues:</text>
+    <text x="180" y="330" fill="black">4</text>
+    <text x="45" y="360" fill="green">Contributed to:</text>
+    <text x="180" y="360" fill="black">4</text>
+  </g>
+
+  <g font-weight="bold" font-size="15" fill="#003366">
+    <text x="780" y="90">Top Languages</text>
+    <text x="780" y="120" fill="saddlebrown">Java</text>
+<rect x="880" y="110" width="0" height="10" fill="saddlebrown">
+  <animate attributeName="width" from="0" to="32" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="119" fill="black">31.8%</text>
+<text x="780" y="145" fill="orangered">HTML</text>
+<rect x="880" y="135" width="0" height="10" fill="orangered">
+  <animate attributeName="width" from="0" to="32" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="144" fill="black">31.8%</text>
+<text x="780" y="170" fill="black">C#</text>
+<rect x="880" y="160" width="0" height="10" fill="black">
+  <animate attributeName="width" from="0" to="11" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="169" fill="black">11.4%</text>
+<text x="780" y="195" fill="gold">JavaScript</text>
+<rect x="880" y="185" width="0" height="10" fill="gold">
+  <animate attributeName="width" from="0" to="9" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="194" fill="black">9.1%</text>
+<text x="780" y="220" fill="rebeccapurple">CSS</text>
+<rect x="880" y="210" width="0" height="10" fill="rebeccapurple">
+  <animate attributeName="width" from="0" to="7" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="219" fill="black">6.8%</text>
+<text x="780" y="245" fill="skyblue">Python</text>
+<rect x="880" y="235" width="0" height="10" fill="skyblue">
+  <animate attributeName="width" from="0" to="5" dur="1s" fill="freeze" />
+</rect>
+<text x="1000" y="244" fill="black">4.5%</text>
+  </g>
+
+
+  <g transform="translate(0, 0)">
+    <circle class="streak-circle-rim" cx="550" cy="160" r="60"/>
+    <circle class="streak-circle" cx="618" cy="218" r="60" stroke="#6c5ce7"/>
+    <circle cx="550" cy="95" r="20" fill="white"/>
+
+    <!-- Fogo principal com faíscas-emoji -->
+    <g transform="translate(545,85)">
+      <!-- 🔥 faíscas subindo -->
+      <g font-size="10" opacity="1">
+        <text x="0" y="0">🔥</text>
+        <animateTransform attributeName="transform" type="translate"
+                          values="0,0; -4,-20" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+      </g>
+      <g font-size="10" opacity="1">
+        <text x="0" y="0">🔥</text>
+        <animateTransform attributeName="transform" type="translate"
+                          values="0,0; 4,-22" dur="1.4s" begin="0.3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0" dur="1.4s" begin="0.3s" repeatCount="indefinite"/>
+      </g>
+      <g font-size="10" opacity="1">
+        <text x="0" y="0">🔥</text>
+        <animateTransform attributeName="transform" type="translate"
+                          values="0,0; -2,-24" dur="1.3s" begin="0.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0" dur="1.3s" begin="0.5s" repeatCount="indefinite"/>
+      </g>
+
+      <!-- 🔥 fogo principal -->
+      <g>
+        <text x="-10" y="8" font-size="24">
+          <tspan>🔥</tspan>
+          <animateTransform attributeName="transform"
+                            type="rotate"
+                            values="-5 0 0; 5 0 0; -5 0 0"
+                            dur="1.2s"
+                            repeatCount="indefinite" />
+        </text>
+      </g>
+    </g>
+
+    <text x="550" y="120" class="rank-text" text-anchor="middle">38</text>
+    <text x="550" y="135" fill="#003366" text-anchor="middle" font-size="15" font-weight="bold">Days streak</text>
+    <text x="550" y="160" fill="black" text-anchor="middle" font-size="15">25/06/2025</text>
+    <text x="550" y="170" fill="black" text-anchor="middle" font-size="15" font-weight="bold">...</text>
+    <text x="550" y="190" fill="black" text-anchor="middle" font-size="15">01/08/2025</text>
+  </g>
+  
+
+ 
+  <g transform="translate(0, 165)">
+    <circle class="rank-circle-rim" cx="550" cy="160" r="60" />
+    <circle class="rank-circle" cx="618" cy="218" r="60" stroke="#ffd700" />
+    <circle cx="550" cy="95" r="20" fill="white"/>
+
+    
+    <g font-size="10" opacity="1">
+      <text x="545" y="95">👑</text>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0,0; -6.3,-17.4"
+                        dur="2.06s"
+                        begin="0.0s"
+                        repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0"
+               dur="2.06s"
+               begin="0.0s"
+               repeatCount="indefinite"/>
+    </g>
+    <g font-size="10" opacity="1">
+      <text x="545" y="95">👑</text>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0,0; 3.3,-36.1"
+                        dur="1.34s"
+                        begin="0.3s"
+                        repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0"
+               dur="1.34s"
+               begin="0.3s"
+               repeatCount="indefinite"/>
+    </g>
+    <g font-size="10" opacity="1">
+      <text x="545" y="95">👑</text>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0,0; -5.7,-23.5"
+                        dur="2.14s"
+                        begin="0.6s"
+                        repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0"
+               dur="2.14s"
+               begin="0.6s"
+               repeatCount="indefinite"/>
+    </g>
+    <g font-size="10" opacity="1">
+      <text x="545" y="95">👑</text>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0,0; 6.4,-33.9"
+                        dur="2.16s"
+                        begin="0.9s"
+                        repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0"
+               dur="2.16s"
+               begin="0.9s"
+               repeatCount="indefinite"/>
+    </g>
+    <g font-size="10" opacity="1">
+      <text x="545" y="95">👑</text>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0,0; -4.4,-40.3"
+                        dur="2.05s"
+                        begin="1.2s"
+                        repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0"
+               dur="2.05s"
+               begin="1.2s"
+               repeatCount="indefinite"/>
+    </g>
+    <g font-size="10" opacity="1">
+      <text x="545" y="95">👑</text>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0,0; 6.3,-47.2"
+                        dur="1.41s"
+                        begin="1.5s"
+                        repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0"
+               dur="1.41s"
+               begin="1.5s"
+               repeatCount="indefinite"/>
+    </g>
+    <g font-size="10" opacity="1">
+      <text x="545" y="95">👑</text>
+      <animateTransform attributeName="transform" type="translate"
+                        values="0,0; -3.5,-24.3"
+                        dur="1.51s"
+                        begin="1.8s"
+                        repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0"
+               dur="1.51s"
+               begin="1.8s"
+               repeatCount="indefinite"/>
+    </g>
+
+    <text x="530" y="100" font-size="32">👑</text>
+    <text x="550" y="140" class="rank-text" text-anchor="middle">S</text>
+    <text x="550" y="165" fill="#003366" text-anchor="middle" font-size="15" font-weight="bold">
+      Overall Rank
+    </text>
+  </g>
+  
+
+
+<!--
+
+  <defs>
+    <clipPath id="clipFooterRoundedBottom">
+      <path d="
+        M0,420
+        L0,444
+        Q0,460 16,460
+        L1084,460
+        Q1100,460 1100,444
+        L1100,420
+        Z
+      "/>
+    </clipPath>
+  </defs>
+
+  <a href="https://github.com/Oliota" target="_blank" rel="noopener noreferrer" >
+    <g clip-path="url(#clipFooterRoundedBottom)" class="title-hover" style="cursor:pointer;">
+      <rect
+        x="0"
+        y="420"
+        width="1100"
+        height="40"
+        fill="transparent"
+      >
+        <animate attributeName="fill" values="transparent; #e0f7fa; transparent" dur="4s" repeatCount="indefinite" />
+      </rect>
+      <text
+        x="1090"
+        y="446"
+        font-size="14"
+        text-anchor="end"
+        fill="#003366"
+        font-family="Segoe UI, Ubuntu, Sans-Serif"
+        pointer-events="none"
+      >
+        Created by @Oliota v1.0.1
+      </text>
+    </g>
+  </a>
+  
+-->
+
+</svg>
