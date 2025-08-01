@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 7 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -22,12 +22,12 @@ jobs:
       - name: Set full permissions for custom script
         run: chmod 777 .github/scripts/generate_snake_custom.sh
 
-      - name: Generate custom snake SVG with border
-        run: bash .github/scripts/generate_snake_custom.sh
+      - name: Generate and commit snake with border
+        run: |
+          bash .github/scripts/generate_snake_custom.sh
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add img/svg/snake/snake_updated.svg
+          git commit -m "chore: update snake SVG with border" || echo "No changes to commit"
+          git push
