@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/14%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/15%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;A mistake is only an error, it becomes a mistake when you fail to correct it.&quot;<br><strong>— John Lennon</strong>
+      &quot;Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.&quot;<br><strong>— Roy T. Bennett</strong>
     </td>
   </tr>
 </table>
