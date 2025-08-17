@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/16%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/17%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;If you put water into a cup, it becomes the cup.&quot;<br><strong>— Bruce Lee</strong>
+      &quot;Instead of thinking outside the box, get rid of the box.&quot;<br><strong>— Deepak Chopra</strong>
     </td>
   </tr>
 </table>
