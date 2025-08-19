@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/18%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/19%2F08%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Many people will walk in and out of your life, but only true friends will leave footprints in your heart.&quot;<br><strong>— Eleanor Roosevelt</strong>
+      &quot;Never take your position for granted and never let any favors you receive go to your head.&quot;<br><strong>— Robert Greene</strong>
     </td>
   </tr>
 </table>
