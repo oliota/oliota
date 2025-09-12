@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/11%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/12%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;You are the only problem you will ever have and you are the only solution.&quot;<br><strong>— Bob Proctor</strong>
+      &quot;If you are far from the enemy, make him believe you are near.&quot;<br><strong>— Sun Tzu</strong>
     </td>
   </tr>
 </table>
