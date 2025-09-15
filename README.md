@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/14%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/15%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Learn from the mistakes of others. You can't live long enough to make them all yourself.&quot;<br><strong>— Eleanor Roosevelt</strong>
+      &quot;Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. &quot;<br><strong>— Samuel Beckett</strong>
     </td>
   </tr>
 </table>
