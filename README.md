@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/23%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/24%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Animals don't hate, and we're supposed to be better than them.&quot;<br><strong>— Elvis Presley</strong>
+      &quot;Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.&quot;<br><strong>— Richard Bach</strong>
     </td>
   </tr>
 </table>
