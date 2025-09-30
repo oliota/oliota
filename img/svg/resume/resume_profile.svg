@@ -27,7 +27,7 @@
     
     @keyframes streakAnimation {
   0% { stroke-dashoffset: 360; }
-  50% { stroke-dashoffset: 264.59; }
+  50% { stroke-dashoffset: 263.61; }
   100% { stroke-dashoffset: 360; }
 }
 
@@ -114,15 +114,15 @@
   <g font-size="15" font-weight="bold" fill="#003366">
     <text x="45" y="90">Contributions</text>
     <text x="45" y="140" fill="green">Total:</text>
-    <text x="180" y="140" fill="black">1379</text>
+    <text x="180" y="140" fill="black">1387</text>
     <text x="45" y="170" fill="green">Longest Streak:</text>
-    <text x="180" y="170" fill="black">97 days</text>
+    <text x="180" y="170" fill="black">98 days</text>
     <line x1="40" y1="190" x2="400" y2="190" stroke="#ccc" stroke-width="1"/>
     <text x="45" y="210">Stats</text>
     <text x="45" y="240" fill="green">Stars:</text>
     <text x="180" y="240" fill="black">139</text>
     <text x="45" y="270" fill="green">Commits in 2025:</text>
-    <text x="180" y="270" fill="black">1361</text>
+    <text x="180" y="270" fill="black">1369</text>
     <text x="45" y="300" fill="green">PRs:</text>
     <text x="180" y="300" fill="black">113</text>
     <text x="45" y="330" fill="green">Issues:</text>
@@ -206,11 +206,11 @@
       </g>
     </g>
 
-    <text x="550" y="120" class="rank-text" text-anchor="middle">97</text>
+    <text x="550" y="120" class="rank-text" text-anchor="middle">98</text>
     <text x="550" y="135" fill="#003366" text-anchor="middle" font-size="15" font-weight="bold">Days streak</text>
     <text x="550" y="160" fill="black" text-anchor="middle" font-size="15">25/06/2025</text>
     <text x="550" y="170" fill="black" text-anchor="middle" font-size="15" font-weight="bold">...</text>
-    <text x="550" y="190" fill="black" text-anchor="middle" font-size="15">29/09/2025</text>
+    <text x="550" y="190" fill="black" text-anchor="middle" font-size="15">30/09/2025</text>
   </g>
   
 
@@ -224,43 +224,43 @@
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; -5.4,-25.1"
-                        dur="1.54s"
+                        values="0,0; -7.3,-45.2"
+                        dur="1.79s"
                         begin="0.0s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="1.54s"
+               dur="1.79s"
                begin="0.0s"
                repeatCount="indefinite"/>
     </g>
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; 7.7,-36.1"
-                        dur="1.23s"
+                        values="0,0; 5,-46.5"
+                        dur="1.88s"
                         begin="0.3s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="1.23s"
+               dur="1.88s"
                begin="0.3s"
                repeatCount="indefinite"/>
     </g>
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; -7,-23.9"
-                        dur="2.02s"
+                        values="0,0; -5.7,-27.9"
+                        dur="1.51s"
                         begin="0.6s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="2.02s"
+               dur="1.51s"
                begin="0.6s"
                repeatCount="indefinite"/>
     </g>
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; 7.6,-41.2"
+                        values="0,0; 5.4,-18.3"
                         dur="2.07s"
                         begin="0.9s"
                         repeatCount="indefinite"/>
@@ -272,36 +272,36 @@
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; -6.1,-31.2"
-                        dur="1.56s"
+                        values="0,0; -4.4,-28.6"
+                        dur="1.77s"
                         begin="1.2s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="1.56s"
+               dur="1.77s"
                begin="1.2s"
                repeatCount="indefinite"/>
     </g>
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; 2.6,-16.7"
-                        dur="1.79s"
+                        values="0,0; 4.4,-41.3"
+                        dur="1.77s"
                         begin="1.5s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="1.79s"
+               dur="1.77s"
                begin="1.5s"
                repeatCount="indefinite"/>
     </g>
     <g font-size="10" opacity="1">
       <text x="545" y="95">👑</text>
       <animateTransform attributeName="transform" type="translate"
-                        values="0,0; -7.7,-32.5"
-                        dur="1.56s"
+                        values="0,0; -6.3,-44.7"
+                        dur="1.84s"
                         begin="1.8s"
                         repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0"
-               dur="1.56s"
+               dur="1.84s"
                begin="1.8s"
                repeatCount="indefinite"/>
     </g>
