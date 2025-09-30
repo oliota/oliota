@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/29%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/30%2F09%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Life is a process. We are a process. The universe is a process.&quot;<br><strong>— Anne Wilson Schaef</strong>
+      &quot;A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.&quot;<br><strong>— Henry Ward Beecher</strong>
     </td>
   </tr>
 </table>
