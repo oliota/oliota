@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/15%2F10%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/16%2F10%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Everyone has the right to make his own decisions, but none has the right to force his decision on others.&quot;<br><strong>— Ayn Rand</strong>
+      &quot;It's better to stand by someone's side than by yourself.&quot;<br><strong>— Jack London</strong>
     </td>
   </tr>
 </table>
