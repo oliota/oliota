@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/23%2F10%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/24%2F10%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;No one ever is defeated until defeat has been accepted as a reality.&quot;<br><strong>— Napoleon Hill</strong>
+      &quot;Thinking is the hardest work there is. That is why so few people engage in it.&quot;<br><strong>— Robert Kiyosaki</strong>
     </td>
   </tr>
 </table>
