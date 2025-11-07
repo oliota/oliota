@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/06%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/07%2F11%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Giving back involves a certain amount of giving up.&quot;<br><strong>— Colin Powell</strong>
+      &quot;We know nothing of tomorrow, our business is to be good and happy today.&quot;<br><strong>— Sydney Smith</strong>
     </td>
   </tr>
 </table>
