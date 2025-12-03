@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/02%2F12%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/03%2F12%2F2025-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;If you're not making mistakes, then you're not doing anything.&quot;<br><strong>— John Wooden</strong>
+      &quot;Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know.&quot;<br><strong>— Colin Powell</strong>
     </td>
   </tr>
 </table>
