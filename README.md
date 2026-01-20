@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/19%2F01%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/20%2F01%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.&quot;<br><strong>— Zig Ziglar</strong>
+      &quot;For things to change, you have to change.&quot;<br><strong>— Jim Rohn</strong>
     </td>
   </tr>
 </table>
