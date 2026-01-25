@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/24%2F01%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/25%2F01%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Life is and will ever remain an equation incapable of solution, but it contains certain known factors. &quot;<br><strong>— Nikola Tesla</strong>
+      &quot;If you always do what you've always done, you'll always get what you've always got. &quot;<br><strong>— Henry Ford</strong>
     </td>
   </tr>
 </table>
