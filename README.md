@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/26%2F04%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/27%2F04%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Do Something. If it works, do more of it. If it doesn't, do something else.&quot;<br><strong>— Franklin D. Roosevelt</strong>
+      &quot;It is dangerous to be right in matters on which the established authorities are wrong.&quot;<br><strong>— Voltaire</strong>
     </td>
   </tr>
 </table>
