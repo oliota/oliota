@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/01%2F05%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/02%2F05%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Get busy living, or get busy dying.&quot;<br><strong>— Stephen King</strong>
+      &quot;Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.&quot;<br><strong>— Joan Rivers</strong>
     </td>
   </tr>
 </table>
