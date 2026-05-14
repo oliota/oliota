@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/13%2F05%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/14%2F05%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;He who cheats the earth will be cheated by the earth.&quot;<br><strong>— Chinese Proverb</strong>
+      &quot;Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.&quot;<br><strong>— Dan Millman</strong>
     </td>
   </tr>
 </table>
