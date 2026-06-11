@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/10%2F06%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/11%2F06%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;If we know how to adapt, we end up being superior.&quot;<br><strong>— Ming-Dao Deng</strong>
+      &quot;If you want something new, you have to stop doing something old.&quot;<br><strong>— Peter Drucker</strong>
     </td>
   </tr>
 </table>
