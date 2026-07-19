@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/18%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/19%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;You may be disappointed if you fail, but you are doomed if you don't try.&quot;<br><strong>— Beverly Sills</strong>
+      &quot;Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.&quot;<br><strong>— Mark Manson</strong>
     </td>
   </tr>
 </table>
