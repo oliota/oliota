@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/30%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/31%2F07%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Be kind whenever possible. It is always possible.&quot;<br><strong>— Dalai Lama</strong>
+      &quot;A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.&quot;<br><strong>— George Bernard Shaw</strong>
     </td>
   </tr>
 </table>
