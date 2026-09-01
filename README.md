@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/31%2F08%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/01%2F09%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Don't seek, don't avoid, don't expect. Take what comes and be happy.&quot;<br><strong>— Maxime Lagace</strong>
+      &quot;A man who dares to waste one hour of time has not discovered the value of life.&quot;<br><strong>— Charles Darwin</strong>
     </td>
   </tr>
 </table>
