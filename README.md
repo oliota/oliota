@@ -79,7 +79,7 @@
 
 <!-- summary:start -->
 <img src="img/svg/resume/resume_profile.svg" alt="GitHub Summary" />
-<!-- updated: 2026-08-31 -->
+<!-- updated: 2026-09-01 -->
 <!-- summary:end -->
 
 
