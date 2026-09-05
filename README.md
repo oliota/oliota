@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/04%2F09%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/05%2F09%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;The future belongs to those who learn more skills and combine them in creative ways.&quot;<br><strong>— Robert Greene</strong>
+      &quot;When something is important enough, you do it even if the odds are not in your favor.&quot;<br><strong>— Elon Musk</strong>
     </td>
   </tr>
 </table>
