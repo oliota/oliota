@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/11%2F09%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/12%2F09%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;There is no fear for one whose mind is not filled with desires.&quot;<br><strong>— Buddha</strong>
+      &quot;Truth is such a rare thing, it is delighted to tell it.&quot;<br><strong>— Emily Dickinson</strong>
     </td>
   </tr>
 </table>
