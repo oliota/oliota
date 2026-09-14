@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/13%2F09%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/14%2F09%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;The first principle of success is desire.&quot;<br><strong>— Robert Collier</strong>
+      &quot;The pen is the tongue of the mind.&quot;<br><strong>— Miguel de Cervantes</strong>
     </td>
   </tr>
 </table>
