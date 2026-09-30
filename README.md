@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/29%2F09%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/30%2F09%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.&quot;<br><strong>— John Wooden</strong>
+      &quot;Selfishness and greed, individual or national, cause most of our troubles.&quot;<br><strong>— Harry S. Truman</strong>
     </td>
   </tr>
 </table>
