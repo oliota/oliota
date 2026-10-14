@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/13%2F10%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/14%2F10%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Formal education will make you a living, self-education will make you a fortune.&quot;<br><strong>— Jim Rohn</strong>
+      &quot;To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.&quot;<br><strong>— Criss Jami</strong>
     </td>
   </tr>
 </table>
