@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/01%2F11%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/02%2F11%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;Life reflects your own thoughts back to you.&quot;<br><strong>— Napoleon Hill</strong>
+      &quot;Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.&quot;<br><strong>— Richard Bach</strong>
     </td>
   </tr>
 </table>
