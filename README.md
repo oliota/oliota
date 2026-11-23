@@ -287,12 +287,12 @@ alert("First came the fried eggs, then came the chicken."+[ "🐣","🥚", "🐔
 
 
 <!-- thought:start -->
-<p><img src="https://img.shields.io/badge/22%2F11%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
+<p><img src="https://img.shields.io/badge/23%2F11%2F2026-Zen--Thought-blue" alt="Date badge" /></p>
 
 <table cellspacing="0" cellpadding="12" border="1" style="border-collapse:separate; border-spacing:0; border:1px solid #ccc; width:100%;">
   <tr>
     <td style="background:#f9f9f9; text-align:center;">
-      &quot;There is no value in anything until it is finished.&quot;<br><strong>— Genghis Khan</strong>
+      &quot;Many people spend more time looking at their failures than focusing on their successes.&quot;<br><strong>— Lolly Daskal</strong>
     </td>
   </tr>
 </table>
